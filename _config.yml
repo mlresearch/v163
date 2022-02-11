@@ -1,0 +1,89 @@
+---
+booktitle: Proceedings on "I (Still) Can't Believe It's Not Better!" at NeurIPS 2021
+  Workshops
+shortname: ICBINB
+year: '2021'
+start: 2021-12-13
+end: 2021-12-13
+conference_number: '2'
+publisher: PMLR
+published: 2022-02-11
+series: Proceedings of Machine Learning Research
+volume: '163'
+layout: proceedings
+issn: 2640-3498
+id: ICBINB2021
+month: 0
+cycles: false
+bibtex_editor: Pradier, Melanie F. and Schein, Aaron and Hyland, Stephanie and Ruiz,
+  Francisco J. R. and Forde, Jessica Z.
+editor:
+- given: Melanie F.
+  family: Pradier
+- given: Aaron
+  family: Schein
+- given: Stephanie
+  family: Hyland
+- given: Francisco J. R.
+  family: Ruiz
+- given: Jessica Z.
+  family: Forde
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings on "I (Still) Can't Believe It's Not Better!" at NeurIPS 2021 Workshops
+    Held in Virtual Workshop on 13 December 2021
+
+  Published as Volume 163 by the Proceedings of Machine Learning Research on 11 February 2022.
+
+  Volume Edited by:
+    Melanie F. Pradier
+    Aaron Schein
+    Stephanie Hyland
+    Francisco J. R. Ruiz
+    Jessica Z. Forde
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 13 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v163"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v163
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v163
+email: ''
+conference:
+  name: I (Still) Can't Believe It's Not Better! Workshop at NeurIPS 2021
+  url: https://i-cant-believe-its-not-better.github.io/neurips2021/
+  location: Virtual Workshop
+  dates:
+  - 2021-12-13
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v163/icbinb21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v163/icbinb21.bib
